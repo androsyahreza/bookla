@@ -528,45 +528,8 @@
 						}
 					},
 					"response": []
-				},
-				{
-					"name": "OTP verification",
-					"request": {
-						"method": "POST",
-						"header": [],
-						"body": {
-							"mode": "urlencoded",
-							"urlencoded": [
-								{
-									"key": "otp_code",
-									"value": "682705",
-									"type": "text"
-								},
-								{
-									"key": "email",
-									"value": "androsyahreza@gmail.com",
-									"type": "text"
-								}
-							]
-						},
-						"url": {
-							"raw": "127.0.0.1:3333/api/v1/otp-verification",
-							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
-							],
-							"port": "3333",
-							"path": [
-								"api",
-								"v1",
-								"otp-verification"
-							]
-						}
-					},
-					"response": []
 				}
+				
 			]
 		},
 		{
