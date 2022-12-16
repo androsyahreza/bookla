@@ -1,7 +1,7 @@
 # bookla
 [![Generic badge](https://img.shields.io/badge/npm-v14.16.1-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/node-6.14.12-green.svg)](https://shields.io/)
 
-Bookla is a sport venue booking application built with [AdonisJS](https://adonisjs.com/)
+Bookla is a sport venue booking apps built with [AdonisJS](https://adonisjs.com/)
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
